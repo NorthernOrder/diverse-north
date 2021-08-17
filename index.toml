@@ -1125,6 +1125,11 @@ hash = "9647a2f72c8b2c794697d0d0bb62b1e0229f42a16a3cdc938c1a6a5f9480ceb6"
 metafile = true
 
 [[files]]
+file = "mods/champions.toml"
+hash = "25ee8ea01e103e99e84abaf4987aa214fbafa35998dceb4e7595715211272c1d"
+metafile = true
+
+[[files]]
 file = "mods/charm-reforged.toml"
 hash = "c595750aa5da10cf6d1122c64832d34537f76a969246d342e29df1021a867093"
 metafile = true
