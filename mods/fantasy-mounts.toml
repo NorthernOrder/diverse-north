@@ -1,0 +1,14 @@
+name = "Fantasy Mounts"
+filename = "fantasy-forge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3202/827/fantasy-forge-1.1.1.jar"
+hash-format = "murmur2"
+hash = "1362356114"
+
+[update]
+[update.curseforge]
+file-id = 3202827
+project-id = 443101
+release-channel = "beta"

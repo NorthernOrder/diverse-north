@@ -1,0 +1,14 @@
+name = "Chisels & Bits"
+filename = "chiselsandbits-1.0.0-ALPHA-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3419/925/chiselsandbits-1.0.0-ALPHA-universal.jar"
+hash-format = "murmur2"
+hash = "1026878546"
+
+[update]
+[update.curseforge]
+file-id = 3419925
+project-id = 231095
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Overloaded Armor Bar"
+filename = "overloadedarmorbar-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3055/679/overloadedarmorbar-5.1.0.jar"
+hash-format = "murmur2"
+hash = "3982474778"
+
+[update]
+[update.curseforge]
+file-id = 3055679
+project-id = 314002
+release-channel = "beta"

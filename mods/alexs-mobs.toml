@@ -1,0 +1,14 @@
+name = "Alex's Mobs"
+filename = "alexsmobs-1.11.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3371/504/alexsmobs-1.11.1.jar"
+hash-format = "murmur2"
+hash = "2237286053"
+
+[update]
+[update.curseforge]
+file-id = 3371504
+project-id = 426558
+release-channel = "beta"

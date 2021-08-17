@@ -1,0 +1,14 @@
+name = "RFTools Storage"
+filename = "rftoolsstorage-1.16-2.0.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3402/865/rftoolsstorage-1.16-2.0.13.jar"
+hash-format = "murmur2"
+hash = "2729936181"
+
+[update]
+[update.curseforge]
+file-id = 3402865
+project-id = 350006
+release-channel = "beta"

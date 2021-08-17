@@ -1,0 +1,14 @@
+name = "End Remastered"
+filename = "endremastered-forge-B4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3406/91/endremastered-forge-B4.0.3.jar"
+hash-format = "murmur2"
+hash = "804756274"
+
+[update]
+[update.curseforge]
+file-id = 3406091
+project-id = 404183
+release-channel = "beta"

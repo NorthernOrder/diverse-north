@@ -1,0 +1,14 @@
+name = "Seasonals"
+filename = "seasonals-1.16.5-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3391/999/seasonals-1.16.5-2.0.0.jar"
+hash-format = "murmur2"
+hash = "1120532620"
+
+[update]
+[update.curseforge]
+file-id = 3391999
+project-id = 416471
+release-channel = "beta"

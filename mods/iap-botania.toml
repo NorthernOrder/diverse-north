@@ -1,0 +1,14 @@
+name = "IAP [Botania]"
+filename = "Industrial Agriculture%5BBotania%5D-1.16.5-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3331/403/Industrial Agriculture%5BBotania%5D-1.16.5-1.7.2.jar"
+hash-format = "murmur2"
+hash = "3793074904"
+
+[update]
+[update.curseforge]
+file-id = 3331403
+project-id = 358489
+release-channel = "beta"

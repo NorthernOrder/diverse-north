@@ -1,0 +1,14 @@
+name = "More Villagers"
+filename = "morevillagers-FORGE-1.16.5-1.5.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/160/morevillagers-FORGE-1.16.5-1.5.4.jar"
+hash-format = "murmur2"
+hash = "2516791387"
+
+[update]
+[update.curseforge]
+file-id = 3393160
+project-id = 484954
+release-channel = "beta"

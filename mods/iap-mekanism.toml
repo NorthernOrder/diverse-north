@@ -1,0 +1,14 @@
+name = "IAP [Mekanism]"
+filename = "Industrial Agriculture%5BMekanism%5D-1.16.3-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3136/120/Industrial Agriculture%5BMekanism%5D-1.16.3-1.7.1.jar"
+hash-format = "murmur2"
+hash = "3254260998"
+
+[update]
+[update.curseforge]
+file-id = 3136120
+project-id = 360596
+release-channel = "beta"

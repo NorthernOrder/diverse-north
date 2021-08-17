@@ -1,0 +1,14 @@
+name = "Architect's Palette"
+filename = "Architects-Palette-1.16.4-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3414/676/Architects-Palette-1.16.4-1.1.4.jar"
+hash-format = "murmur2"
+hash = "2909365477"
+
+[update]
+[update.curseforge]
+file-id = 3414676
+project-id = 433862
+release-channel = "beta"

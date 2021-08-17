@@ -1,0 +1,14 @@
+name = "AzureDooms Angel Ring"
+filename = "doomangelring-1.16.4-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/595/doomangelring-1.16.4-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2423597520"
+
+[update]
+[update.curseforge]
+file-id = 3100595
+project-id = 394100
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Immersive Posts"
+filename = "immersiveposts-1.16.5-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3392/407/immersiveposts-1.16.5-4.1.1.jar"
+hash-format = "murmur2"
+hash = "2093418012"
+
+[update]
+[update.curseforge]
+file-id = 3392407
+project-id = 314645
+release-channel = "beta"

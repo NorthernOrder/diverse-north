@@ -1,0 +1,14 @@
+name = "Mining Gadgets"
+filename = "mininggadgets-1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3279/909/mininggadgets-1.7.5.jar"
+hash-format = "murmur2"
+hash = "395309315"
+
+[update]
+[update.curseforge]
+file-id = 3279909
+project-id = 351748
+release-channel = "beta"

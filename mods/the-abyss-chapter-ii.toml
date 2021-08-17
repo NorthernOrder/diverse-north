@@ -1,0 +1,14 @@
+name = "The Abyss: Chapter II"
+filename = "TheAbyss2 2.0.0-snapshot-0.2980.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3386/871/TheAbyss2 2.0.0-snapshot-0.2980.jar"
+hash-format = "murmur2"
+hash = "4253064371"
+
+[update]
+[update.curseforge]
+file-id = 3386871
+project-id = 440647
+release-channel = "beta"

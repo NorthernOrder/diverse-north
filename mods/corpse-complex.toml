@@ -1,0 +1,14 @@
+name = "Corpse Complex"
+filename = "corpsecomplex-forge-1.16.5-4.0.2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3385/806/corpsecomplex-forge-1.16.5-4.0.2.5.jar"
+hash-format = "murmur2"
+hash = "997323527"
+
+[update]
+[update.curseforge]
+file-id = 3385806
+project-id = 271605
+release-channel = "beta"

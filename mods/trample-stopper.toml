@@ -1,0 +1,14 @@
+name = "Trample Stopper"
+filename = "TrampleStopper-2.4.9+mc-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3169/753/TrampleStopper-2.4.9+mc-1.16.5.jar"
+hash-format = "murmur2"
+hash = "101987907"
+
+[update]
+[update.curseforge]
+file-id = 3169753
+project-id = 297028
+release-channel = "beta"

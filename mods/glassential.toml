@@ -1,0 +1,14 @@
+name = "Glassential"
+filename = "glassential-forge-1.16.5-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3413/72/glassential-forge-1.16.5-1.1.7.jar"
+hash-format = "murmur2"
+hash = "2810914847"
+
+[update]
+[update.curseforge]
+file-id = 3413072
+project-id = 319194
+release-channel = "beta"

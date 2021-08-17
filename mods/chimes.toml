@@ -1,0 +1,14 @@
+name = "Chimes"
+filename = "Chimes-1.16.5-0.9.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3189/454/Chimes-1.16.5-0.9.5.jar"
+hash-format = "murmur2"
+hash = "1806450596"
+
+[update]
+[update.curseforge]
+file-id = 3189454
+project-id = 350464
+release-channel = "beta"

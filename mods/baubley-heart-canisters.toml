@@ -1,0 +1,14 @@
+name = "Baubley Heart Canisters"
+filename = "baubely-heart-canisters-1.16.5-1.1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3404/904/baubely-heart-canisters-1.16.5-1.1.10.jar"
+hash-format = "murmur2"
+hash = "2718622942"
+
+[update]
+[update.curseforge]
+file-id = 3404904
+project-id = 282947
+release-channel = "beta"

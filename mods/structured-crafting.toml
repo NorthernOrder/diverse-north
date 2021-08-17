@@ -1,0 +1,14 @@
+name = "Structured Crafting"
+filename = "StructuredCrafting-1.16.4-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3151/319/StructuredCrafting-1.16.4-0.2.2.jar"
+hash-format = "murmur2"
+hash = "3248417406"
+
+[update]
+[update.curseforge]
+file-id = 3151319
+project-id = 233151
+release-channel = "beta"

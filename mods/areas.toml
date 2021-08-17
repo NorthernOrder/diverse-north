@@ -1,0 +1,14 @@
+name = "Areas"
+filename = "areas_1.16.5-2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3422/610/areas_1.16.5-2.8.jar"
+hash-format = "murmur2"
+hash = "3554286573"
+
+[update]
+[update.curseforge]
+file-id = 3422610
+project-id = 391701
+release-channel = "beta"

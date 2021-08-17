@@ -1,0 +1,14 @@
+name = "Valhelsia Core"
+filename = "valhelsia_core-16.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3338/808/valhelsia_core-16.0.9.jar"
+hash-format = "murmur2"
+hash = "2662067919"
+
+[update]
+[update.curseforge]
+file-id = 3338808
+project-id = 416935
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Screenshot to Clipboard (Forge)"
+filename = "ScreenshotToClipboard-1.15.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3047/440/ScreenshotToClipboard-1.15.1-1.0.5.jar"
+hash-format = "murmur2"
+hash = "789796348"
+
+[update]
+[update.curseforge]
+file-id = 3047440
+project-id = 326950
+release-channel = "beta"

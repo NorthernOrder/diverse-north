@@ -1,0 +1,14 @@
+name = "IAP [Industrial Foregoing]"
+filename = "Industrial Agriculture%5BIndustrial Foregoing%5D-1.16.3-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3136/119/Industrial Agriculture%5BIndustrial Foregoing%5D-1.16.3-1.7.1.jar"
+hash-format = "murmur2"
+hash = "1979557464"
+
+[update]
+[update.curseforge]
+file-id = 3136119
+project-id = 365781
+release-channel = "beta"

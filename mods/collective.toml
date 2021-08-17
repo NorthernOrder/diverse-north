@@ -1,0 +1,14 @@
+name = "Collective"
+filename = "collective-1.16.5-2.58.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3424/561/collective-1.16.5-2.58.jar"
+hash-format = "murmur2"
+hash = "3667548294"
+
+[update]
+[update.curseforge]
+file-id = 3424561
+project-id = 342584
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Neko's Enchanted Books"
+filename = "NekosEnchantedBooks-1.16-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3406/158/NekosEnchantedBooks-1.16-1.3.0.jar"
+hash-format = "murmur2"
+hash = "1095514675"
+
+[update]
+[update.curseforge]
+file-id = 3406158
+project-id = 441114
+release-channel = "beta"

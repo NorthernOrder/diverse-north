@@ -1,0 +1,14 @@
+name = "Extra Disks"
+filename = "extradisks-1.16.4-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3328/131/extradisks-1.16.4-1.5.1.jar"
+hash-format = "murmur2"
+hash = "3979826824"
+
+[update]
+[update.curseforge]
+file-id = 3328131
+project-id = 351491
+release-channel = "beta"

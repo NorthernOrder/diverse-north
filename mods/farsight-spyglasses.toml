@@ -1,0 +1,14 @@
+name = "Farsight: Spyglasses"
+filename = "farsight-1.3.1-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3401/114/farsight-1.3.1-1.16.5.jar"
+hash-format = "murmur2"
+hash = "2510294267"
+
+[update]
+[update.curseforge]
+file-id = 3401114
+project-id = 496039
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Selene"
+filename = "selene-1.16.5-1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3415/384/selene-1.16.5-1.6.jar"
+hash-format = "murmur2"
+hash = "1121230820"
+
+[update]
+[update.curseforge]
+file-id = 3415384
+project-id = 499980
+release-channel = "beta"

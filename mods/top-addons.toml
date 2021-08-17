@@ -1,0 +1,14 @@
+name = "TOP Addons"
+filename = "topaddons-1.16.5-2.1.5-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3319/50/topaddons-1.16.5-2.1.5-beta.jar"
+hash-format = "murmur2"
+hash = "1745706695"
+
+[update]
+[update.curseforge]
+file-id = 3319050
+project-id = 247111
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Nature's Aura"
+filename = "NaturesAura-34.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3255/666/NaturesAura-34.2.jar"
+hash-format = "murmur2"
+hash = "2315005427"
+
+[update]
+[update.curseforge]
+file-id = 3255666
+project-id = 306626
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Immersive Petroleum"
+filename = "ImmersivePetroleum-1.16.5-3.3.0-5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3384/353/ImmersivePetroleum-1.16.5-3.3.0-5.jar"
+hash-format = "murmur2"
+hash = "493567899"
+
+[update]
+[update.curseforge]
+file-id = 3384353
+project-id = 268250
+release-channel = "beta"

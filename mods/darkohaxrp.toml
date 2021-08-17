@@ -1,0 +1,14 @@
+name = "DarkoHaxRP"
+filename = "DarkoHacksRP-1.16.4-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3350/715/DarkoHacksRP-1.16.4-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1534543102"
+
+[update]
+[update.curseforge]
+file-id = 3350715
+project-id = 493825
+release-channel = "beta"

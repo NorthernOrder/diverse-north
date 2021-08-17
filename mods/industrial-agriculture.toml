@@ -1,0 +1,14 @@
+name = "Industrial Agriculture"
+filename = "Industrial Agriculture%5BCore%5D-1.16.5-1.8.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/382/Industrial Agriculture%5BCore%5D-1.16.5-1.8.11.jar"
+hash-format = "murmur2"
+hash = "1239387211"
+
+[update]
+[update.curseforge]
+file-id = 3393382
+project-id = 356483
+release-channel = "beta"

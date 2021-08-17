@@ -1,0 +1,14 @@
+name = "Skinned Lanterns"
+filename = "skinned_lanterns-1.16.5-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3237/331/skinned_lanterns-1.16.5-1.3.1.jar"
+hash-format = "murmur2"
+hash = "207428067"
+
+[update]
+[update.curseforge]
+file-id = 3237331
+project-id = 414154
+release-channel = "beta"

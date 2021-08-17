@@ -1,0 +1,14 @@
+name = "Fish In Planks"
+filename = "fish_in_planks-1.16.5-0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3350/872/fish_in_planks-1.16.5-0.4.jar"
+hash-format = "murmur2"
+hash = "32834231"
+
+[update]
+[update.curseforge]
+file-id = 3350872
+project-id = 408955
+release-channel = "beta"

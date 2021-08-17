@@ -1,0 +1,14 @@
+name = "Immersive Engineering"
+filename = "ImmersiveEngineering-1.16.5-5.0.2-137.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3377/691/ImmersiveEngineering-1.16.5-5.0.2-137.jar"
+hash-format = "murmur2"
+hash = "2088764509"
+
+[update]
+[update.curseforge]
+file-id = 3377691
+project-id = 231951
+release-channel = "beta"

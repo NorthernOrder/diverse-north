@@ -1,0 +1,14 @@
+name = "FTB Essentials (Forge)"
+filename = "ftb-essentials-1605.1.4-build.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3409/567/ftb-essentials-1605.1.4-build.13.jar"
+hash-format = "murmur2"
+hash = "926005301"
+
+[update]
+[update.curseforge]
+file-id = 3409567
+project-id = 410811
+release-channel = "beta"

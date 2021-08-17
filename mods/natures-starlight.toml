@@ -1,0 +1,14 @@
+name = "Nature's Starlight"
+filename = "NaturesStarlight-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3263/286/NaturesStarlight-1.1.jar"
+hash-format = "murmur2"
+hash = "2427634132"
+
+[update]
+[update.curseforge]
+file-id = 3263286
+project-id = 466739
+release-channel = "beta"

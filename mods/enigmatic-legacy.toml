@@ -1,0 +1,14 @@
+name = "Enigmatic Legacy"
+filename = "EnigmaticLegacy-2.11.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3301/730/EnigmaticLegacy-2.11.4.jar"
+hash-format = "murmur2"
+hash = "3307218579"
+
+[update]
+[update.curseforge]
+file-id = 3301730
+project-id = 336184
+release-channel = "beta"

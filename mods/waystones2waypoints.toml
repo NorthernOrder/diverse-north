@@ -1,0 +1,14 @@
+name = "Waystones2Waypoints"
+filename = "w2w-1.16.1-0.0.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3172/192/w2w-1.16.1-0.0.5.2.jar"
+hash-format = "murmur2"
+hash = "2732231838"
+
+[update]
+[update.curseforge]
+file-id = 3172192
+project-id = 316632
+release-channel = "beta"

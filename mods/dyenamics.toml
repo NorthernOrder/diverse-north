@@ -1,0 +1,14 @@
+name = "Dyenamics"
+filename = "dyenamics-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3404/889/dyenamics-1.1.0.jar"
+hash-format = "murmur2"
+hash = "3812770137"
+
+[update]
+[update.curseforge]
+file-id = 3404889
+project-id = 509276
+release-channel = "beta"

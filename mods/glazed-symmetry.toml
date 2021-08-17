@@ -1,0 +1,14 @@
+name = "Glazed Symmetry"
+filename = "glazedsymmetry-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3112/74/glazedsymmetry-1.0.jar"
+hash-format = "murmur2"
+hash = "2620575687"
+
+[update]
+[update.curseforge]
+file-id = 3112074
+project-id = 420093
+release-channel = "beta"

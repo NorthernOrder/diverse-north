@@ -1,0 +1,14 @@
+name = "ItemZoom Rekindled"
+filename = "itemzoom-1.16.x-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3164/93/itemzoom-1.16.x-2.2.1.jar"
+hash-format = "murmur2"
+hash = "1342180161"
+
+[update]
+[update.curseforge]
+file-id = 3164093
+project-id = 435281
+release-channel = "beta"

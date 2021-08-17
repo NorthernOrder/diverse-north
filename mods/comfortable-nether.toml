@@ -1,0 +1,14 @@
+name = "Comfortable Nether"
+filename = "ComfortableNether4.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/643/ComfortableNether4.7.jar"
+hash-format = "murmur2"
+hash = "3428539386"
+
+[update]
+[update.curseforge]
+file-id = 3420643
+project-id = 473604
+release-channel = "beta"

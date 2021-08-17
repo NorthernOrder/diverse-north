@@ -1,0 +1,14 @@
+name = "Phi"
+filename = "Phi-1.16-1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3384/43/Phi-1.16-1.6.jar"
+hash-format = "murmur2"
+hash = "3405305882"
+
+[update]
+[update.curseforge]
+file-id = 3384043
+project-id = 476728
+release-channel = "beta"

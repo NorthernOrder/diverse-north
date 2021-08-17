@@ -1,0 +1,14 @@
+name = "Peculiars"
+filename = "peculiars-1.16.5-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3392/1/peculiars-1.16.5-2.0.0.jar"
+hash-format = "murmur2"
+hash = "2318380871"
+
+[update]
+[update.curseforge]
+file-id = 3392001
+project-id = 418551
+release-channel = "beta"

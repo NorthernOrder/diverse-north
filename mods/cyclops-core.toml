@@ -1,0 +1,14 @@
+name = "Cyclops Core"
+filename = "CyclopsCore-1.16.5-1.11.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3409/904/CyclopsCore-1.16.5-1.11.8.jar"
+hash-format = "murmur2"
+hash = "4008012973"
+
+[update]
+[update.curseforge]
+file-id = 3409904
+project-id = 232758
+release-channel = "beta"

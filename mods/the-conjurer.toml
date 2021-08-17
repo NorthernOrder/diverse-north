@@ -1,0 +1,14 @@
+name = "The Conjurer"
+filename = "the-conjurer-1.16.4-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3107/953/the-conjurer-1.16.4-1.0.13.jar"
+hash-format = "murmur2"
+hash = "928745929"
+
+[update]
+[update.curseforge]
+file-id = 3107953
+project-id = 377798
+release-channel = "beta"

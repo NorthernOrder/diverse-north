@@ -1,0 +1,14 @@
+name = "Frozen Up"
+filename = "frozenup-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3200/324/frozenup-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3353923538"
+
+[update]
+[update.curseforge]
+file-id = 3200324
+project-id = 430652
+release-channel = "beta"

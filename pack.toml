@@ -1,0 +1,12 @@
+name = "Diverse North: Revisited"
+author = "Ozoku"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b0bc8f45d625edd025e888d730f038a7d1754fee527b424cd7073cf3bfca2570"
+
+[versions]
+forge = "36.2.2"
+minecraft = "1.16.5"

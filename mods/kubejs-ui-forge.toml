@@ -1,0 +1,14 @@
+name = "KubeJS UI (Forge)"
+filename = "kubejs-ui-forge-1605.1.4-build.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3415/279/kubejs-ui-forge-1605.1.4-build.12.jar"
+hash-format = "murmur2"
+hash = "4099234197"
+
+[update]
+[update.curseforge]
+file-id = 3415279
+project-id = 423490
+release-channel = "beta"

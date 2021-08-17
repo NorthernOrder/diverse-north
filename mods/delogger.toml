@@ -1,0 +1,14 @@
+name = "DeLogger"
+filename = "DeLogger-1.16.5-2.0.11+mc-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3428/559/DeLogger-1.16.5-2.0.11+mc-1.16.5.jar"
+hash-format = "murmur2"
+hash = "2957479293"
+
+[update]
+[update.curseforge]
+file-id = 3428559
+project-id = 413477
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "FTB Backups (Forge)"
+filename = "ftb-backups-2.1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3038/811/ftb-backups-2.1.1.6.jar"
+hash-format = "murmur2"
+hash = "64481104"
+
+[update]
+[update.curseforge]
+file-id = 3038811
+project-id = 314904
+release-channel = "beta"

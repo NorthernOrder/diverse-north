@@ -1,0 +1,14 @@
+name = "Sound Device Options"
+filename = "sounddeviceoptions-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3421/94/sounddeviceoptions-1.4.3.jar"
+hash-format = "murmur2"
+hash = "121299131"
+
+[update]
+[update.curseforge]
+file-id = 3421094
+project-id = 306555
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Random Village Names"
+filename = "randomvillagenames_1.16.5-1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3409/2/randomvillagenames_1.16.5-1.3.jar"
+hash-format = "murmur2"
+hash = "1166567592"
+
+[update]
+[update.curseforge]
+file-id = 3409002
+project-id = 452299
+release-channel = "beta"
