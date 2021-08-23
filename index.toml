@@ -781,6 +781,10 @@ file = "config/sodium-mixins.properties"
 hash = "83954741502f9d80387c24837943f60051fc30030827bfc210030c07a6cc77ec"
 
 [[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "41baebb8dfcd09577788e14a5779fd82f178c16c0404c5366a9ace92e48cc2f0"
+
+[[files]]
 file = "config/structure_gel-client.toml"
 hash = "23773fd582b899efb5c2f538b7fd3b40dc4a0a2bd5917a3648f47573c435d3ea"
 
@@ -994,7 +998,7 @@ hash = "3edc946154fbf7912660b69bdd31bd6efc0558deb6247e1d0a9da0c7ab5fd902"
 
 [[files]]
 file = "kubejs/server_scripts/unify.js"
-hash = "c81a6213cd6801758b651fa8f6d7cff98bd797801ba2bebcc50ad2dd56442220"
+hash = "1cada0221e5956d2ff56a9ab44baf0ea60b24f37ebc9777e5c079a58a826ae22"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
