@@ -1,6 +1,6 @@
 name = "ItemZoom Rekindled"
 filename = "itemzoom-1.16.x-2.2.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3164/93/itemzoom-1.16.x-2.2.1.jar"

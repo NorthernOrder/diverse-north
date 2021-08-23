@@ -1,6 +1,6 @@
 name = "Screenshot to Clipboard (Forge)"
 filename = "ScreenshotToClipboard-1.15.1-1.0.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3047/440/ScreenshotToClipboard-1.15.1-1.0.5.jar"

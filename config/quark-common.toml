@@ -1926,10 +1926,10 @@
 			G = [0.0, 1.11, 0.0]
 
 [oddities]
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 	Backpack = true
 	Crate = true
-	"Matrix Enchanting" = true
+	"Matrix Enchanting" = false
 	Magnets = true
 	Pipes = true
 

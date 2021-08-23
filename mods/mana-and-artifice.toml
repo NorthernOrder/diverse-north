@@ -1,0 +1,14 @@
+name = "Mana and Artifice"
+filename = "mana-and-artifice-1.4.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3391/266/mana-and-artifice-1.4.0.8.jar"
+hash-format = "murmur2"
+hash = "2274793267"
+
+[update]
+[update.curseforge]
+file-id = 3391266
+project-id = 406360
+release-channel = "beta"

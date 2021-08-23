@@ -1,0 +1,14 @@
+name = "Storage for ComputerCraft"
+filename = "Storage4ComputerCraft-1.16.5-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3430/150/Storage4ComputerCraft-1.16.5-1.3.1.jar"
+hash-format = "murmur2"
+hash = "1146650347"
+
+[update]
+[update.curseforge]
+file-id = 3430150
+project-id = 432182
+release-channel = "beta"

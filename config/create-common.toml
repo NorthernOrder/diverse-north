@@ -7,18 +7,15 @@
 		#
 		#Prevents all worldgen added by Create from taking effect
 		disableWorldGen = false
-		#
-		#Forward caught TileEntityExceptions to the log at debug level.
-		logTeErrors = false
 
 		[worldgen.v2.copper_ore]
-			#No comment
+			#
 			#Range: > 0
 			minHeight = 40
-			#No comment
+			#
 			#Range: > 0
 			maxHeight = 85
-			#No comment
+			#
 			#Range: > 0
 			clusterSize = 18
 			#
@@ -27,16 +24,16 @@
 			#  <1 to make it a chance.
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
-			frequency = 2.0
+			frequency = 0.0
 
 		[worldgen.v2.weathered_limestone]
-			#No comment
+			#
 			#Range: > 0
 			minHeight = 10
-			#No comment
+			#
 			#Range: > 0
 			maxHeight = 30
-			#No comment
+			#
 			#Range: > 0
 			clusterSize = 128
 			#
@@ -48,13 +45,13 @@
 			frequency = 0
 
 		[worldgen.v2.zinc_ore]
-			#No comment
+			#
 			#Range: > 0
 			minHeight = 15
-			#No comment
+			#
 			#Range: > 0
 			maxHeight = 70
-			#No comment
+			#
 			#Range: > 0
 			clusterSize = 14
 			#
@@ -66,13 +63,13 @@
 			frequency = 0
 
 		[worldgen.v2.limestone]
-			#No comment
+			#
 			#Range: > 0
 			minHeight = 30
-			#No comment
+			#
 			#Range: > 0
 			maxHeight = 70
-			#No comment
+			#
 			#Range: > 0
 			clusterSize = 128
 			#
@@ -84,13 +81,13 @@
 			frequency = 0
 
 		[worldgen.v2.dolomite]
-			#No comment
+			#
 			#Range: > 0
 			minHeight = 20
-			#No comment
+			#
 			#Range: > 0
 			maxHeight = 70
-			#No comment
+			#
 			#Range: > 0
 			clusterSize = 128
 			#
@@ -102,13 +99,13 @@
 			frequency = 0
 
 		[worldgen.v2.gabbro]
-			#No comment
+			#
 			#Range: > 0
 			minHeight = 20
-			#No comment
+			#
 			#Range: > 0
 			maxHeight = 70
-			#No comment
+			#
 			#Range: > 0
 			clusterSize = 128
 			#
@@ -120,13 +117,13 @@
 			frequency = 0
 
 		[worldgen.v2.scoria]
-			#No comment
+			#
 			#Range: > 0
 			minHeight = 0
-			#No comment
+			#
 			#Range: > 0
 			maxHeight = 10
-			#No comment
+			#
 			#Range: > 0
 			clusterSize = 128
 			#
@@ -136,4 +133,3 @@
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
 			frequency = 0
-

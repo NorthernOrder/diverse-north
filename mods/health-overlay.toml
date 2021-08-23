@@ -1,6 +1,6 @@
 name = "Health Overlay"
 filename = "HealthOverlay-1.16.5-3.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3402/106/HealthOverlay-1.16.5-3.0.0.jar"

@@ -1,6 +1,6 @@
 name = "Mod Name Tooltip"
 filename = "modnametooltip_1.16.2-1.15.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3038/982/modnametooltip_1.16.2-1.15.0.jar"

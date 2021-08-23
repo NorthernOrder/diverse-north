@@ -1,0 +1,14 @@
+name = "Woot"
+filename = "woot-1.16.5-1.0.8.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3383/734/woot-1.16.5-1.0.8.0.jar"
+hash-format = "murmur2"
+hash = "892988858"
+
+[update]
+[update.curseforge]
+file-id = 3383734
+project-id = 244049
+release-channel = "beta"

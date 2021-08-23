@@ -1,0 +1,14 @@
+name = "Passthrough Signs"
+filename = "PassthroughSigns-1.16.4-2.3.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3107/222/PassthroughSigns-1.16.4-2.3.7.jar"
+hash-format = "murmur2"
+hash = "2033324903"
+
+[update]
+[update.curseforge]
+file-id = 3107222
+project-id = 224633
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "More Create Stuffs"
+filename = "morecreatestuffs-mc1.16-1.4.1a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3409/143/morecreatestuffs-mc1.16-1.4.1a.jar"
+hash-format = "murmur2"
+hash = "3271892639"
+
+[update]
+[update.curseforge]
+file-id = 3409143
+project-id = 444965
+release-channel = "beta"

@@ -1,6 +1,6 @@
 name = "Toast Control"
 filename = "Toast-Control-1.16.4-4.3.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3172/881/Toast-Control-1.16.4-4.3.1.jar"

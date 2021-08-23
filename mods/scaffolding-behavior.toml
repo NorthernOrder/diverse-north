@@ -1,0 +1,14 @@
+name = "Speed Building - Scaffolding behavior"
+filename = "scaffoldingpower-1.16.5-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3211/52/scaffoldingpower-1.16.5-1.3.0.jar"
+hash-format = "murmur2"
+hash = "883299237"
+
+[update]
+[update.curseforge]
+file-id = 3211052
+project-id = 370777
+release-channel = "beta"
