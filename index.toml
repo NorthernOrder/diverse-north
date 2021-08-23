@@ -1534,11 +1534,6 @@ hash = "21166487deeb52f105e4541c949a7d882f557172290698d4b35e381e1d2e6980"
 metafile = true
 
 [[files]]
-file = "mods/engineers-decor.toml"
-hash = "807c051e98a002aa2b55d76d8501f041a9a26f354ce949c883e3f439ff08c7eb"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-mushrooms.toml"
 hash = "4b994f9b85692611b583db72006eb87a30c59232d042202018f6c345cc4460ce"
 metafile = true
