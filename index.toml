@@ -2380,11 +2380,6 @@ hash = "ad5744f77f102c32fb7a312c073601553cc0cac610003342651531d520836c87"
 metafile = true
 
 [[files]]
-file = "mods/villager-names.toml"
-hash = "3f9b60ea077809c47232aa835539edb3725e7ce6981ffbd4ef5927dffda0666f"
-metafile = true
-
-[[files]]
 file = "mods/wall-jump.toml"
 hash = "89efdf6491aaa027d2a40676d5334797510d31c35cdf91e7e05221ba9f8aee62"
 metafile = true
