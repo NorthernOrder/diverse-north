@@ -813,6 +813,14 @@ file = "config/tconstruct-common.toml"
 hash = "ac95b0c19d251c3aa0cc2162e7fd34d30eb118cbf59401b9be7d52e766f06817"
 
 [[files]]
+file = "config/theoneprobe-client.toml"
+hash = "0a3379bbd6fa39d6abb7ba68eebe5c2565c0abd87fdcbaa92a31d033ab1b868a"
+
+[[files]]
+file = "config/theoneprobe-common.toml"
+hash = "4c47d5b1878d0b7a1fa71f00e06e6262e61969a663f9d817458d79514b0177fa"
+
+[[files]]
 file = "config/toastcontrol-common.toml"
 hash = "8322d570645d8bcad8d8a0df517e100b696fb093646885f0d31aee40fee12fef"
 
@@ -855,6 +863,10 @@ hash = "9aec49d5de62a42ebaaebdb8a26c8c10c388c20bae7caada9f822e6bf66ed0be"
 [[files]]
 file = "config/waystones-server.toml"
 hash = "de39ad577531fe4e3f44c8432f4fc7eb9b3e1a81ad16da20ed216c5015c74478"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "a7e2bd64041a8377393ecbbf3f00e63e978e864aa1bd6c631071d387a3e28a1e"
 
 [[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
@@ -1005,6 +1017,10 @@ file = "kubejs/startup_scripts/script.js"
 hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
 [[files]]
+file = "local/ftbchunks/client-config.snbt"
+hash = "df06cdd926f531fa1b6c8a41d0c0dad9d4bf6e3c422a29bcfa9a930075865c6d"
+
+[[files]]
 file = "mods.txt"
 hash = "92d099e8b2c2a5ac00370bb777afd7b41200cea54b6036671749f90d0a2440b6"
 
@@ -1071,11 +1087,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-forge.toml"
 hash = "7ed815e93a1d11ea2f6d3f788ecb7fc6c9e14055a9b5a0c7a14e038f95150d0d"
-metafile = true
-
-[[files]]
-file = "mods/areas.toml"
-hash = "d1c7c107fd8e0984ef10e9c4c5f5e41a4fa182cdde5d14510dfb268ed7af1781"
 metafile = true
 
 [[files]]
@@ -1316,11 +1327,6 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.toml"
 hash = "49dac819b05b90748c313cb095e199c89b3baaa3da99c486d742506ad09bcb2b"
-metafile = true
-
-[[files]]
-file = "mods/collective.toml"
-hash = "dbd5585eb27f8d702ebc247421a63a067ca1aa3f1d02a6d9e269ca736b0c99fc"
 metafile = true
 
 [[files]]
@@ -2071,11 +2077,6 @@ metafile = true
 [[files]]
 file = "mods/quark.toml"
 hash = "32a1e8920cc2dd267e48ebdf906d46cab46abaca9451d68dde16afb642ce8ef5"
-metafile = true
-
-[[files]]
-file = "mods/random-village-names.toml"
-hash = "9440c8728a16d29e7fb085302bc89d7fbca0be2cbe1f8c2adfc96cbda8d802e6"
 metafile = true
 
 [[files]]
