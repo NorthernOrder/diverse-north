@@ -1166,11 +1166,6 @@ hash = "4d365de4084aa0a9d676ad7e0c28d4272196934c2a59d2c9930043ddc2b9358b"
 metafile = true
 
 [[files]]
-file = "mods/better-biome-blend.toml"
-hash = "bb5ce5a0166d517b48d82ad9eaf2d1dc071e95f7d02e21eaab10424602e23f1d"
-metafile = true
-
-[[files]]
 file = "mods/better-than-mending.toml"
 hash = "22abac53a6dec23802e48eed3ec8106941254658d76b20cee5675c067ca12842"
 metafile = true
