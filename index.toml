@@ -385,6 +385,10 @@ file = "config/blockswap/block_swap.json"
 hash = "a67e47bb338ab17bee9a2956a7ca06398a6e95972d60c42c3a139bcfe41e24f4"
 
 [[files]]
+file = "config/brandon3055/CSG/Config.json"
+hash = "33d5ae998188ed7afa7d536b99cd488acc2df946fa9f555519abbd872eedc769"
+
+[[files]]
 file = "config/bundlesplus.json"
 hash = "52a6bf12acde9e1497fa0f6ffaead3cabdc2beffd927c8c73cb3dc73bfc5dbe4"
 
