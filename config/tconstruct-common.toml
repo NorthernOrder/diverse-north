@@ -6,7 +6,7 @@
 	#If true, tables such as the part builder and tinker station will show all variants. If false they will show just the first entry in the tag, typically oak.
 	showAllTableVariants = true
 	#Set this to false to disable new players spawning with the Tinkers' Book.
-	shouldSpawnWithTinkersBook = true
+	shouldSpawnWithTinkersBook = false
 	#If non-empty, only this material will be shown on tools in creative and JEI (or the first valid material if this is invalid for the tool).
 	#If empty, all materials will show
 	showOnlyToolMaterial = ""
@@ -27,12 +27,12 @@
 	addGravelToFlintRecipe = true
 	#Number of nuggets produced when an ore block is melted in the foundry. 9 nuggets would give 1 ingot
 	#Range: 1 ~ 45
-	foundryNuggetsPerOre = 15
+	foundryNuggetsPerOre = 18
 	#Allows converting wither bones to regular bones
 	witherBoneConversion = true
 	#Number of nuggets produced when an ore block is melted in the melter. 9 would give 1 ingot
 	#Range: 1 ~ 45
-	melterNuggetsPerOre = 12
+	melterNuggetsPerOre = 9
 
 	#Entity head drops when killed by a charged creeper
 	[recipes.heads]
@@ -103,3 +103,4 @@
 	#If true, forces integration materials to be enabled, even if the relevant metal is missing. Useful for testing material balance.
 	#Does not provide recipes for any of them, they will only be available to cheat in creative.
 	forceIntegrationMaterials = false
+

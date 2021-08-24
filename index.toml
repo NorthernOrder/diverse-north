@@ -41,6 +41,14 @@ file = "config/abundance-common.toml"
 hash = "d42fb6c0815ba5c5012aeeac91f497621532cfd46c7095942523fe9ba59adb52"
 
 [[files]]
+file = "config/advancedperipherals-common.toml"
+hash = "2db4710301c5870abb352960ed02a65f5d6e676415b440ce3231abdbaf691693"
+
+[[files]]
+file = "config/akashictome-common.toml"
+hash = "870f210eedd911e9259c8cc9a8ca604c580513be64121b85f728aee397f34bdb"
+
+[[files]]
 file = "config/alexsmobs.toml"
 hash = "757fcf0da512d66209cf3620317990f4859cec0a4c21c5867049156ab2cd86ec"
 
@@ -285,6 +293,10 @@ file = "config/antiquewaystones-common.toml"
 hash = "a616c8dda85c42085f93630c8009f0d08109d91309d22d950c09a4595ba4e2e6"
 
 [[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "f1e6d559f8e6ea9c9041dd49c638c7d80fa7da130beb04e6265a836e9bec9d02"
+
+[[files]]
 file = "config/atmospheric-common.toml"
 hash = "48ab5b66b34dd1f7a2533a63a7758675a0bfa930f9fb805cd2db9affb5a1f22e"
 
@@ -450,11 +462,11 @@ hash = "02a3e1b7896f271e2d49fa940b7385cece07c8d9f40004272bc2015f892f3027"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "fa8538a342157b9f4aa7bd34bc6657288c22b6f9c54b0be3dced38f5870379cb"
+hash = "c4cb24bd387cd20d6388add238667250204709b4c1efc77e6587c2e37ba7bfc9"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "1c6f80155d0b3b80946accb28c73a5f37fa919ecedd5e71fa9057ac9f7c0b480"
+hash = "22929e8a5025ab77115916fd5ca5b1d6a2a500d8101c736ab708f6ac84002567"
 
 [[files]]
 file = "config/dsurround/dsurround-client.toml"
@@ -519,6 +531,10 @@ hash = "b89856d605d5daa648ed261d5a23b82f0a735a4b7af642e5213c569f3592c9e7"
 [[files]]
 file = "config/enhanced_mushrooms-common.toml"
 hash = "f324de85e30399dfe5d487c598434351b3c4dd116a89c613349cf289ad7fea69"
+
+[[files]]
+file = "config/enigmaticlegacy-common.omniconf"
+hash = "c8180ad20c28cfe9bd4952a9b512ff9725e04a296ea00f2c905f2de4211de29a"
 
 [[files]]
 file = "config/environmental-common.toml"
@@ -589,6 +605,10 @@ file = "config/forgery/yeet_recipes.ini"
 hash = "dc2750d0681ac30cb4e565f77a0be2ca59fdbf92899d1b3af35e2f51b4dafae0"
 
 [[files]]
+file = "config/fpsreducer/fpsreducer-client.toml"
+hash = "9f441f4c087fc7b5c71495294c80af13eb3f9241903959ac677bda01347d103a"
+
+[[files]]
 file = "config/fruitful-common.toml"
 hash = "f57d743d79d6ffdd9d0eb601daad5df1276ed5ea90f7c47bedf1c7dcf3fce8f1"
 
@@ -646,11 +666,15 @@ hash = "3050eca82fb3f2bc166b2c6e911e9d0b1f2896d67db5e124125b1b14628daf6b"
 
 [[files]]
 file = "config/inspirations-client.toml"
-hash = "599fb9147e5d6d54e1bef2768e2004505189044ddbbe85d55e6246f981321ebd"
+hash = "1ffc2bf2c0742c6bbdd3a63955900d983886e908242413e52b5d47300ffd9939"
 
 [[files]]
 file = "config/inspirations-replacements.toml"
 hash = "29c6242c03dc6ee633a55759dd053f371b98990165732a6032bf7e543fc8244d"
+
+[[files]]
+file = "config/integrateddynamics-common.toml"
+hash = "406cfcd38637435e1a02d8cb2c5bb0a9891f87ad81c1bb9bbe6c44ea15c4cf18"
 
 [[files]]
 file = "config/itemzoom-client.toml"
@@ -810,7 +834,7 @@ hash = "cfaf8142ec0724f66ed0f9fb567186d201dc237869367c9965336bc6c0bd4a42"
 
 [[files]]
 file = "config/tconstruct-common.toml"
-hash = "ac95b0c19d251c3aa0cc2162e7fd34d30eb118cbf59401b9be7d52e766f06817"
+hash = "054a3a5e65562c7e9d5cd4a35c5901c9d833ec3bf97e112b511d47e7a7f6a267"
 
 [[files]]
 file = "config/theoneprobe-client.toml"
@@ -867,6 +891,10 @@ hash = "de39ad577531fe4e3f44c8432f4fc7eb9b3e1a81ad16da20ed216c5015c74478"
 [[files]]
 file = "config/xaerominimap.txt"
 hash = "a7e2bd64041a8377393ecbbf3f00e63e978e864aa1bd6c631071d387a3e28a1e"
+
+[[files]]
+file = "defaultconfigs/astralsorcery.toml"
+hash = "036064380d8b21629daaadfc3f1fe8410e84fd5cad07d207dcf3d39435ed93aa"
 
 [[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
@@ -961,43 +989,7 @@ file = "kubejs/config/common.properties"
 hash = "2d33d25ceb140871f235222d5aee1dab5cb64ec11cc8b590682621facc4666ad"
 
 [[files]]
-file = "kubejs/exported/tags/blocks.txt"
-hash = "39e08db7d4a81b4f71d0466de13d972faaae966e7284f00f6fee38054aa4d494"
-
-[[files]]
-file = "kubejs/exported/tags/enchantments.txt"
-hash = "99119e89d5341fac17ef949f224a3a0a2493a2040693146b4285ce6e746b653c"
-
-[[files]]
-file = "kubejs/exported/tags/entity_types.txt"
-hash = "32c3f2522a06f0b8398e3461466a45dc3841505861376a483a8d2d57d55ca3ad"
-
-[[files]]
-file = "kubejs/exported/tags/fluids.txt"
-hash = "8a4a01074e902db460785fdd35ea8d99ec2d9af5830aa97be45152b21b426e1f"
-
-[[files]]
-file = "kubejs/exported/tags/functions.txt"
-hash = "b934be84d5818c60fe08e5bbb0f9b73903238c8a15b6be89e501c01f3e5dec87"
-
-[[files]]
-file = "kubejs/exported/tags/items.txt"
-hash = "3588107b37479e465475bd9fa366a4028bd600f41eb063e1bfb1556e18aa0537"
-
-[[files]]
-file = "kubejs/exported/tags/potions.txt"
-hash = "5375d9bb9a75b8b78d60f7448ef8a5bbb05ecd36215530ce55867ea463b8365d"
-
-[[files]]
-file = "kubejs/exported/tags/tile_entity_types.txt"
-hash = "b80eae13b3798252beff01cbb847f41b771357e2832df7a5f91c85141f4bea1c"
-
-[[files]]
-file = "kubejs/server_scripts/create.js"
-hash = "6e0d4c2d9d153eaf80cd2076531b4e6e651cba50bd18d1c86b58a85cffc08368"
-
-[[files]]
-file = "kubejs/server_scripts/recipes.js"
+file = "kubejs/server_scripts/crucial_recipes.js"
 hash = "0731ce80524320d630d58af961ae7aceeaf088d4a9227ac691c50e2f430768ef"
 
 [[files]]
@@ -1013,8 +1005,12 @@ file = "kubejs/server_scripts/unify.js"
 hash = "1cada0221e5956d2ff56a9ab44baf0ea60b24f37ebc9777e5c079a58a826ae22"
 
 [[files]]
-file = "kubejs/startup_scripts/script.js"
-hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
+file = "kubejs/server_scripts/way_to_get_chimerite.js"
+hash = "3001439c0f7561dc49b27ae5a9ca70aeb28476ff7dc34f46611fcddf98123b37"
+
+[[files]]
+file = "kubejs/startup_scripts/remove_vanilla_oregen.js"
+hash = "3c13749d657a22dc06d17e353d745c4a598822e8b0a47e8408c84223fb8ea4e5"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
@@ -5210,46 +5206,6 @@ hash = "382330553916be268e6c016a245084856991a1ed1d731096e38c11da277d0d99"
 [[files]]
 file = "openloader/resources/crucial_vanillatweaks/readme.txt"
 hash = "b9d25e96d9c26e27a5bf2af8ba813de4f502cd3ce2369a801f1040a76d686245"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
-hash = "88f8547629519b1cc8724952ef2b7eec805c2eebb7530de7dd7998d4be2a7bcf"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/language.json"
-hash = "2c31db4e6877cb80f8fb65b7bb88201e8fe290b87776f8ca7c7334bcea000a08"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/mods.json"
-hash = "5f29a4d0f93a33ef637a1b91a82781a2c84c3c1e862fa37f9704d9b03d49e827"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
-hash = "e1ae3e0c986cd28e777cdcc59135cc54423a0bb8f253c361f0f4d8d8d946b2ce"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/options.json"
-hash = "3c6383dd80b98eccdc8d0ea31d681fdf141e82680250a2c05053a70623be53b9"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/quit.json"
-hash = "e231d7797e1ba56f3b26d53e55a03bb75fb858563e90b48d2f641836ba15d1bc"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
-hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/widgets.png"
-hash = "26a3d4b8a23b75fdb7a0c5e8b7835ce8bdf98873a81695dde9f7010845edfe8b"
-
-[[files]]
-file = "packmenu/resources/pack.mcmeta"
-hash = "c92d7a6dc58ca7168bda2dfc3cc0a5acde7af7a4d2134ec54d2014ecf47d9928"
-
-[[files]]
-file = "packmenu/resources/pack.png"
-hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
 
 [[files]]
 file = "patchouli_books/crucialguide/book.json"
