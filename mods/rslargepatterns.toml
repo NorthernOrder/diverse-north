@@ -1,0 +1,14 @@
+name = "Refined Storage Large Patterns"
+filename = "RSLargePatterns-1.16.5-2.1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3263/830/RSLargePatterns-1.16.5-2.1.0.3.jar"
+hash-format = "murmur2"
+hash = "2083800620"
+
+[update]
+[update.curseforge]
+file-id = 3263830
+project-id = 364852
+release-channel = "beta"

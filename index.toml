@@ -2159,6 +2159,11 @@ hash = "2cf42877bc76fcc78fa6beecd2f56094b693dfbc3370d0246efc9933106dece5"
 metafile = true
 
 [[files]]
+file = "mods/rslargepatterns.toml"
+hash = "5b45fb00c205aabbf45690b044e6eff4a3d753155e9f15b64f8730f54b42f614"
+metafile = true
+
+[[files]]
 file = "mods/sapience.toml"
 hash = "0ca286988ff19291690c797878c32a0c7f0cc3bc343dff7575b536bda6bfc0ee"
 metafile = true
