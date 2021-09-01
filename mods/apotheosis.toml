@@ -1,14 +1,14 @@
 name = "Apotheosis"
-filename = "Apotheosis-1.16.4-4.6.1.jar"
+filename = "Apotheosis-1.16.5-4.7.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3332/235/Apotheosis-1.16.4-4.6.1.jar"
+url = "https://edge.forgecdn.net/files/3438/930/Apotheosis-1.16.5-4.7.1.jar"
 hash-format = "murmur2"
-hash = "3392740927"
+hash = "2594886512"
 
 [update]
 [update.curseforge]
-file-id = 3332235
+file-id = 3438930
 project-id = 313970
 release-channel = "beta"

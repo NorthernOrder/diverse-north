@@ -1,14 +1,14 @@
 name = "ExtraStorage"
-filename = "ExtraStorage-1.16.5-1.4.1.jar"
+filename = "ExtraStorage-1.16.5-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3336/746/ExtraStorage-1.16.5-1.4.1.jar"
+url = "https://edge.forgecdn.net/files/3443/945/ExtraStorage-1.16.5-1.5.0.jar"
 hash-format = "murmur2"
-hash = "1657979584"
+hash = "1367771010"
 
 [update]
 [update.curseforge]
-file-id = 3336746
+file-id = 3443945
 project-id = 410168
 release-channel = "beta"

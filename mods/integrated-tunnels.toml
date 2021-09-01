@@ -1,14 +1,14 @@
 name = "Integrated Tunnels"
-filename = "IntegratedTunnels-1.16.5-1.8.5.jar"
+filename = "IntegratedTunnels-1.16.5-1.8.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3397/378/IntegratedTunnels-1.16.5-1.8.5.jar"
+url = "https://edge.forgecdn.net/files/3443/979/IntegratedTunnels-1.16.5-1.8.6.jar"
 hash-format = "murmur2"
-hash = "3513363457"
+hash = "1525529218"
 
 [update]
 [update.curseforge]
-file-id = 3397378
+file-id = 3443979
 project-id = 251389
 release-channel = "beta"

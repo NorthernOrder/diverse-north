@@ -1,14 +1,14 @@
 name = "Tome of Blood"
-filename = "tomeofblood-1.16.4-1.0.5.jar"
+filename = "tomeofblood-1.16.5-1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3178/198/tomeofblood-1.16.4-1.0.5.jar"
+url = "https://edge.forgecdn.net/files/3445/579/tomeofblood-1.16.5-1.2.jar"
 hash-format = "murmur2"
-hash = "3184630910"
+hash = "1585369781"
 
 [update]
 [update.curseforge]
-file-id = 3178198
+file-id = 3445579
 project-id = 438240
 release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Farmer's Tea"
-filename = "farmerstea-1.16.5-1.2.jar"
+filename = "farmerstea-1.16.5-1.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3255/558/farmerstea-1.16.5-1.2.jar"
+url = "https://edge.forgecdn.net/files/3438/997/farmerstea-1.16.5-1.3.jar"
 hash-format = "murmur2"
-hash = "1668057744"
+hash = "583879567"
 
 [update]
 [update.curseforge]
-file-id = 3255558
+file-id = 3438997
 project-id = 450265
 release-channel = "beta"
