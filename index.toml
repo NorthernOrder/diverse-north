@@ -1954,6 +1954,11 @@ hash = "db38fc187041e24a7b7d1e02e271a2a3e0c7f01f726299350c9a073e6d118c7c"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.toml"
+hash = "968f01352c6469389fc09d8cef9f7b52c822326e9306cac1e364bb4da63717e5"
+metafile = true
+
+[[files]]
 file = "mods/natures-starlight.toml"
 hash = "35ea22dc4c356409edbb4ac98adebebf8b7f7c6d7149742a8153f354b7feb9f7"
 metafile = true
