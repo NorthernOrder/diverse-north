@@ -978,7 +978,7 @@ hash = "c9d95533a69c3a720f162524ba3aeb5b9a4436b07e685174ac8662a0c7c522c8"
 
 [[files]]
 file = "kubejs/client_scripts/ui.js"
-hash = "a999030c6aaff7917e3081d148e71cc07beff00a4af2cb5a002c9b9fd7cf16f8"
+hash = "ebdbdd78be4e0bcf46f06194731859409b56e0ba4e3e199de0e3dc1fae0ff926"
 
 [[files]]
 file = "kubejs/client_scripts/unify.js"
