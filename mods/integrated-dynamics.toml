@@ -1,14 +1,14 @@
 name = "Integrated Dynamics"
-filename = "IntegratedDynamics-1.16.5-1.9.3.jar"
+filename = "IntegratedDynamics-1.16.5-1.9.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3425/174/IntegratedDynamics-1.16.5-1.9.3.jar"
+url = "https://edge.forgecdn.net/files/3443/990/IntegratedDynamics-1.16.5-1.9.4.jar"
 hash-format = "murmur2"
-hash = "1719596655"
+hash = "1535507924"
 
 [update]
 [update.curseforge]
-file-id = 3425174
+file-id = 3443990
 project-id = 236307
 release-channel = "beta"

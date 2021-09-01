@@ -1,14 +1,14 @@
 name = "End Remastered"
-filename = "endremastered-forge-B4.0.3.jar"
+filename = "endremastered-forge-R4.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3406/91/endremastered-forge-B4.0.3.jar"
+url = "https://edge.forgecdn.net/files/3444/367/endremastered-forge-R4.1.1.jar"
 hash-format = "murmur2"
-hash = "804756274"
+hash = "2413580271"
 
 [update]
 [update.curseforge]
-file-id = 3406091
+file-id = 3444367
 project-id = 404183
 release-channel = "beta"
