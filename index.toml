@@ -997,6 +997,10 @@ file = "kubejs/server_scripts/crucial_recipes.js"
 hash = "0731ce80524320d630d58af961ae7aceeaf088d4a9227ac691c50e2f430768ef"
 
 [[files]]
+file = "kubejs/server_scripts/no_squid_crash.js"
+hash = "9c6fa01e9ee8595ccb6ac858ce71ad09389109a129f010cc6a47940534ccd607"
+
+[[files]]
 file = "kubejs/server_scripts/seed_pouch_fixing.js"
 hash = "4458f3295b5728f88c707f05991a1910f1d1c37b47a06f0a4045d41078267ad9"
 
