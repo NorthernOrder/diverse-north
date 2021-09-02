@@ -18,8 +18,4 @@ onEvent("recipes", (event) => {
   ];
   
   items.forEach((item) => event.remove({ output: item }));
-  
-  
-  // remove angel ring recipe for now
-  event.remove({ output: "doomangelring:itemdoomangelring" });
 });

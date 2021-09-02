@@ -1005,12 +1005,16 @@ file = "kubejs/server_scripts/crucial_recipes.js"
 hash = "0731ce80524320d630d58af961ae7aceeaf088d4a9227ac691c50e2f430768ef"
 
 [[files]]
+file = "kubejs/server_scripts/flight.js"
+hash = "82a2a638a1d26b51f6285c2770e7be2b79a546fbf8e339133d07340bf24d3830"
+
+[[files]]
 file = "kubejs/server_scripts/no_squid_crash.js"
 hash = "9c6fa01e9ee8595ccb6ac858ce71ad09389109a129f010cc6a47940534ccd607"
 
 [[files]]
 file = "kubejs/server_scripts/removes.js"
-hash = "876e54f6119fea0efc515a1308c2db0ddec36f398a08dd191cefd1e322da6f3a"
+hash = "92d5472ffd136072850707a21b736d7f8318ce929d552b38c8578b4539ed757d"
 
 [[files]]
 file = "kubejs/server_scripts/seed_pouch_fixing.js"
