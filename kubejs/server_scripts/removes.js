@@ -1,4 +1,5 @@
 onEvent("recipes", (event) => {
+  // remove rs duplicates
   const sizes = [
     '256k',
     '1024k',
@@ -17,4 +18,8 @@ onEvent("recipes", (event) => {
   ];
   
   items.forEach((item) => event.remove({ output: item }));
+  
+  
+  // remove angel ring recipe for now
+  event.remove({ output: "doomangelring:itemdoomangelring" });
 });

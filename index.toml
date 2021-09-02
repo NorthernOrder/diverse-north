@@ -1010,7 +1010,7 @@ hash = "9c6fa01e9ee8595ccb6ac858ce71ad09389109a129f010cc6a47940534ccd607"
 
 [[files]]
 file = "kubejs/server_scripts/removes.js"
-hash = "077e0f5e7ecc247f19c86d0252f228582b4356134da1fddc2beb839a0fabb0f4"
+hash = "876e54f6119fea0efc515a1308c2db0ddec36f398a08dd191cefd1e322da6f3a"
 
 [[files]]
 file = "kubejs/server_scripts/seed_pouch_fixing.js"
