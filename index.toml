@@ -1875,6 +1875,11 @@ hash = "85ad530d97f72a538a50995115333b93e1664f15d1123850f70a3bd8e9e9a90d"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.toml"
+hash = "91ce9451fc2860bc7c833b28f9b72d7e303973bf85c61cf555117473b8be6681"
+metafile = true
+
+[[files]]
 file = "mods/lollipop.toml"
 hash = "5a17767ff77b02dabdd01f2ca4345cedbe0c08478586aa497773c113e32eb5f9"
 metafile = true
