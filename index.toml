@@ -2838,7 +2838,7 @@ hash = "56dee43b10be23b33df0bbe263cb99a0a52b8f7a338ce1fd5b12b80d89c3587f"
 
 [[files]]
 file = "openloader/data/crucial_data_v7/data/crucial/tags/items/categories/building_blocks.json"
-hash = "d65b96633a089b37b473d7333b8889d817cf9f5db6ee509a66c69e7f35a4e279"
+hash = "5716bb7626b73e990c56ba1f21f993da0c399e84c7ef720a8dee7f9a8b5dc24c"
 
 [[files]]
 file = "openloader/data/crucial_data_v7/data/crucial/tags/items/categories/categorized.json"
@@ -2898,7 +2898,7 @@ hash = "166b702d5c72c7702bde2ad4650d0a1d0e214f6f6762f50cdf23e59dc2ec250f"
 
 [[files]]
 file = "openloader/data/crucial_data_v7/data/crucial/tags/items/categories/useful_items.json"
-hash = "cf8febef1f76e6e7c3d2ed0c5a6c973386c1b26d12a518aef749eb8759ada34c"
+hash = "ea4fea2b3045eff6d5fcf157cb6c7e8d76f82d09c666c90c84bf80bf828f47a1"
 
 [[files]]
 file = "openloader/data/crucial_data_v7/data/crucial/tags/items/categories/utility_items.json"
@@ -3039,10 +3039,6 @@ hash = "c6738f59f69dd1fd4f3c7c7fb22857175844462d3356ae053d73cfa75922be46"
 [[files]]
 file = "openloader/data/crucial_data_v7/data/crucial/tags/items/redirects/minecraft_linker.json"
 hash = "c6738f59f69dd1fd4f3c7c7fb22857175844462d3356ae053d73cfa75922be46"
-
-[[files]]
-file = "openloader/data/crucial_data_v7/data/crucial/tags/items/redirects/minimap.json"
-hash = "ea997c4d3389d1a0a1f55363db1818345247946d49d7e45e608d9ca2e61db480"
 
 [[files]]
 file = "openloader/data/crucial_data_v7/data/crucial/tags/items/redirects/mob_detector.json"
