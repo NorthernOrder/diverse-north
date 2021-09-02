@@ -1010,7 +1010,7 @@ hash = "4458f3295b5728f88c707f05991a1910f1d1c37b47a06f0a4045d41078267ad9"
 
 [[files]]
 file = "kubejs/server_scripts/settings.js"
-hash = "3edc946154fbf7912660b69bdd31bd6efc0558deb6247e1d0a9da0c7ab5fd902"
+hash = "e0be657a1d5d2793d04e2c74cf4afdda7f97766a366185a785ccbfaa444bff86"
 
 [[files]]
 file = "kubejs/server_scripts/unify.js"
