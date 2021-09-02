@@ -701,6 +701,10 @@ file = "config/kiwi-client.toml"
 hash = "23ea46cc50becaa7ac12713b77624adb0ba191743342104bd80d8b2664509a61"
 
 [[files]]
+file = "config/losttrinkets/general_common.toml"
+hash = "175d903b998ae1a75592bf9bb25d6443e10556d7bb45ab811c0c5d28222d54e6"
+
+[[files]]
 file = "config/mantle-client.toml"
 hash = "4eb31565ff6cb05edf5a4111eef5603f59b9f9a46d3682dd9f537dfe9a53e1cc"
 
