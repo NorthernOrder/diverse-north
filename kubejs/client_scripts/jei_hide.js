@@ -10,11 +10,11 @@ onEvent("jei.hide.items", (event) => {
     '1048576k_fluid'
   ];
   
-  const items = [
-    ...sizes.map(size => `extrastorage:storagepart_${size}`),
-    ...sizes.map(size => `extrastorage:disk_${size}`),
-    ...sizes.map(size => `extrastorage:block_${size}`)
-  ];
+  let items = [];
+  
+  items = items.concat(sizes.map(size => `extrastorage:storagepart_${size}`));
+  items = items.concat(sizes.map(size => `extrastorage:disk_${size}`));
+  items = items.concat(sizes.map(size => `extrastorage:block_${size}`));
   
   items.forEach((item) => event.hide(item));
 });

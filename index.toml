@@ -978,7 +978,7 @@ hash = "c25cc24593b7c64298bee9cb9fbae739506205518040091b0a6da37b69fc748c"
 
 [[files]]
 file = "kubejs/client_scripts/jei_hide.js"
-hash = "7c8a18feb941c90902aa0dd52d09cce764d5e41282a19f7891bf18d1d8bde404"
+hash = "2de699546710294c37db1811911a4e6ae319a583c3dd9049e784115f111c16eb"
 
 [[files]]
 file = "kubejs/client_scripts/jei_info.js"
@@ -1006,7 +1006,7 @@ hash = "0731ce80524320d630d58af961ae7aceeaf088d4a9227ac691c50e2f430768ef"
 
 [[files]]
 file = "kubejs/server_scripts/flight.js"
-hash = "82a2a638a1d26b51f6285c2770e7be2b79a546fbf8e339133d07340bf24d3830"
+hash = "7be2cce8448af340e02ef68a68d5cbaccef25735f49ad2a62e3147dc8c4f8434"
 
 [[files]]
 file = "kubejs/server_scripts/no_squid_crash.js"
@@ -1014,7 +1014,7 @@ hash = "9c6fa01e9ee8595ccb6ac858ce71ad09389109a129f010cc6a47940534ccd607"
 
 [[files]]
 file = "kubejs/server_scripts/removes.js"
-hash = "92d5472ffd136072850707a21b736d7f8318ce929d552b38c8578b4539ed757d"
+hash = "1207ce09dd3cbde648505fcfa028bf8cc2b0440c3f05cb077af00f0772b5e3b5"
 
 [[files]]
 file = "kubejs/server_scripts/seed_pouch_fixing.js"
