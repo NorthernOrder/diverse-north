@@ -1760,7 +1760,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveposts.toml"
-hash = "a33a03efad8c62b6b61ff24a8bd1419e1b698e0cbbeebd483b71bbdba84dec2e"
+hash = "777172c0ca139c2abf13f6c9378f2c561a166677ff13f7a4fedd0c7129fc861f"
 metafile = true
 
 [[files]]
@@ -1770,7 +1770,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-foregoing.toml"
-hash = "f904cf0f450c2abf6d87122b5aa832ca149a7437cb910d58ecad211161e29acb"
+hash = "3e734af28929938f6639f21250db2bac40deff16b0843bb3a513bc11e6865209"
 metafile = true
 
 [[files]]
@@ -1950,7 +1950,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agriculture.toml"
-hash = "81320f88252d215e16281186706c31f17d1428268e406c232689bf929811a289"
+hash = "fbd6bc15d29695f98bec766222228fb088119d194b0daca5dddc49624de0cf06"
 metafile = true
 
 [[files]]
@@ -1995,7 +1995,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.toml"
-hash = "414671ea95417b8ebfa2f4e4d42759b4f683ae8d8d93abdadc821fd3433b2404"
+hash = "a6e5195bdcc3412121b97b21627178e96182a30b4698b5042ad97692c4b38515"
 metafile = true
 
 [[files]]
@@ -2330,7 +2330,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.toml"
-hash = "f4dfb0d2a1acb706eaf7e1b22d532336ff010319ddba03c3de9aad93136258dd"
+hash = "3f4c3628eef77ccf24f5a4be77518f586c2361a7d0162a9c998f609145e511a9"
 metafile = true
 
 [[files]]
