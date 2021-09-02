@@ -977,6 +977,10 @@ file = "kubejs/assets/sdrp/lang/en_us.json"
 hash = "c25cc24593b7c64298bee9cb9fbae739506205518040091b0a6da37b69fc748c"
 
 [[files]]
+file = "kubejs/client_scripts/jei_hide.js"
+hash = "7c8a18feb941c90902aa0dd52d09cce764d5e41282a19f7891bf18d1d8bde404"
+
+[[files]]
 file = "kubejs/client_scripts/jei_info.js"
 hash = "c9d95533a69c3a720f162524ba3aeb5b9a4436b07e685174ac8662a0c7c522c8"
 
@@ -1003,6 +1007,10 @@ hash = "0731ce80524320d630d58af961ae7aceeaf088d4a9227ac691c50e2f430768ef"
 [[files]]
 file = "kubejs/server_scripts/no_squid_crash.js"
 hash = "9c6fa01e9ee8595ccb6ac858ce71ad09389109a129f010cc6a47940534ccd607"
+
+[[files]]
+file = "kubejs/server_scripts/removes.js"
+hash = "077e0f5e7ecc247f19c86d0252f228582b4356134da1fddc2beb839a0fabb0f4"
 
 [[files]]
 file = "kubejs/server_scripts/seed_pouch_fixing.js"
