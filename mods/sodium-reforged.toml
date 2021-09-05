@@ -12,3 +12,8 @@ hash = "2620665428"
 file-id = 3410021
 project-id = 491233
 release-channel = "beta"
+
+[option]
+default = true
+description = "Boosts game performance but makes create moving blocks invisible"
+optional = true
