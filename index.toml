@@ -921,6 +921,14 @@ file = "defaultconfigs/paraglider-server.toml"
 hash = "0644adc913534f74489f0d3d60572b422b7170ca7c541a5cec4c98285ed08860"
 
 [[files]]
+file = "defaultconfigs/refinedstorage-server.toml"
+hash = "64649195510ef08295c024e9726f1990c0e13dd8623656d6de4012519008778d"
+
+[[files]]
+file = "defaultconfigs/refinedstorageaddons-server.toml"
+hash = "1945d8ffbc64c21ca6d5c2cbcecb31380ba3f4207b0839a108d5c7a2189abc30"
+
+[[files]]
 file = "defaultconfigs/skinnedlanterns-server.toml"
 hash = "b34904a394ae191031a8ca4c8130c3b30b71f51db281f11f4aa22eca10de5479"
 
