@@ -3294,18 +3294,6 @@ file = "openloader/data/crucial_data_v7/data/towers_of_the_wild/loot_tables/ches
 hash = "9d9bcc6c7af78f1255779566242ca204bb9aee193ed971bf95d174a36c190f5a"
 
 [[files]]
-file = "openloader/data/crucial_data_v7/data/waystones/loot_tables/blocks/mossy_waystone.json"
-hash = "8fc20d9751da29d54d2f18cc6c621a1db8ac66a464b9be47ff0ed479bf20e957"
-
-[[files]]
-file = "openloader/data/crucial_data_v7/data/waystones/loot_tables/blocks/sandy_waystone.json"
-hash = "8fc20d9751da29d54d2f18cc6c621a1db8ac66a464b9be47ff0ed479bf20e957"
-
-[[files]]
-file = "openloader/data/crucial_data_v7/data/waystones/loot_tables/blocks/waystone.json"
-hash = "8fc20d9751da29d54d2f18cc6c621a1db8ac66a464b9be47ff0ed479bf20e957"
-
-[[files]]
 file = "openloader/data/crucial_data_v7/data/windowlogging/tags/blocks/windowable.json"
 hash = "2e2eb8eff8f15005b24a2e1146c703cd535f620f0eca63fceaf1d3546d1e9f0f"
 
