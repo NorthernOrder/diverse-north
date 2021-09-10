@@ -1,14 +1,14 @@
 name = "Repurposed Structures (Forge)"
-filename = "repurposed_structures_forge-3.2.3+1.16.5.jar"
+filename = "repurposed_structures_forge-3.2.4+1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3445/327/repurposed_structures_forge-3.2.3+1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3449/198/repurposed_structures_forge-3.2.4+1.16.5.jar"
 hash-format = "murmur2"
-hash = "440433514"
+hash = "1331896185"
 
 [update]
 [update.curseforge]
-file-id = 3445327
+file-id = 3449198
 project-id = 368293
 release-channel = "beta"
