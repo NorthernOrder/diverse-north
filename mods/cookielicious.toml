@@ -1,14 +1,14 @@
 name = "Cookielicious"
-filename = "cookielicious-1.16.5-1.4.1.jar"
+filename = "cookielicious-1.16.5-1.4.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3399/933/cookielicious-1.16.5-1.4.1.jar"
+url = "https://edge.forgecdn.net/files/3449/76/cookielicious-1.16.5-1.4.2.jar"
 hash-format = "murmur2"
-hash = "3615662928"
+hash = "2752937640"
 
 [update]
 [update.curseforge]
-file-id = 3399933
+file-id = 3449076
 project-id = 409577
 release-channel = "beta"
