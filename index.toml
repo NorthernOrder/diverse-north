@@ -1054,7 +1054,7 @@ hash = "92d099e8b2c2a5ac00370bb777afd7b41200cea54b6036671749f90d0a2440b6"
 
 [[files]]
 file = "mods/abnormals-core.toml"
-hash = "165683bc82b6b8f3f10f78c16055dfe8fd6dc382dc755336b54173e3231de182"
+hash = "6b36e99c3c17ec21400988532c8e837d924fd995698b958a343696aedafd9cd5"
 metafile = true
 
 [[files]]
@@ -1124,7 +1124,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "acf91f3d02a75729672d0075952dfdea8e116a07775df6acb4055c323af1aca0"
+hash = "f2f6c3fb08e91f610bdae3ce699b8d6b0077c6bd46df12debb9c427b1ee14abd"
 metafile = true
 
 [[files]]
@@ -1224,7 +1224,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.toml"
-hash = "395634df555ea08d118f9c16e37aef7ad0eb7e7495dc90e8a95e410430e7e01b"
+hash = "1ab30d24994c6c47e3da9a7b2b3d1a978ee8823e32a57a374dfd7e99a0768235"
 metafile = true
 
 [[files]]
@@ -1308,11 +1308,6 @@ hash = "c7db978344cdd1e9a26934be6709f985d3e50ac3d88fffac89df4d6f96efe88b"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.toml"
-hash = "a73ae9a44395f54d11d95f2be2d20db8b3a4332b089becebfeb2889fd2fc0dc8"
-metafile = true
-
-[[files]]
 file = "mods/chocolate-fix.toml"
 hash = "122fd1053f3ae8b3e28dc3dc0dc5b806010e51bd5b1e4894150cbf9089acdd31"
 metafile = true
@@ -1339,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechicken-lib-1-8.toml"
-hash = "dfc39dba3bc46ac68226bddb4a94ca19c6da70bc88679ca7b230927bbc08046b"
+hash = "86cd3d36d40d5d3f080dec647dfd3144d3ae59f0c72c43947bde9f0566cb6bb8"
 metafile = true
 
 [[files]]
@@ -1409,7 +1404,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.toml"
-hash = "3dcd441e79fc54e6549da35d404f5fa2fa69ef2875505415ab45f61acc97a09a"
+hash = "b31397c65d97f12064fe62f7a38fc63010bebe0ae7e08ca0ae9ed2a087614b6e"
 metafile = true
 
 [[files]]
@@ -1429,7 +1424,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "f2b3bddfc655c109607b50d3d762a3d6785bb4afd86ad1a578e99217023c5ea9"
+hash = "6863c605825840c601d9c8aea1456c5dbbd613b9037e7b6fe26e256748cbadfb"
 metafile = true
 
 [[files]]
@@ -1539,7 +1534,7 @@ metafile = true
 
 [[files]]
 file = "mods/emendatus-enigmatica.toml"
-hash = "2259b11bd3b7ffd907dfa8e601166b40a773be7fe78833f75edcbc2750225285"
+hash = "344cb179963d60bf1d93a09da965acb97f20dd7453741c9954b12369a7712de8"
 metafile = true
 
 [[files]]
@@ -1664,7 +1659,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.toml"
-hash = "0802907de3dfc4c15de546db252068e288f6ccca065f3db73db0d9ed35bfc5f9"
+hash = "7f7faf768330a6fd47e6dc9da35de6f5a5a97d109fcfd2e9f1b5323024d1ac4c"
 metafile = true
 
 [[files]]
@@ -1709,7 +1704,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.toml"
-hash = "3cc42ca4e5ffc04fd890013403317c6a7c87f2f8f15075bd832aff32b76e9521"
+hash = "d33e987f40acd62836f38905922b1f96de6920481c748349dd0422437fff39b7"
 metafile = true
 
 [[files]]
@@ -1719,12 +1714,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.toml"
-hash = "f5727835768b20c34b9bc67b9aa5faac9efcafac9824987de03a2fe0864eb4e0"
+hash = "182625d3e66582d0e653b69380429622410a6ecce59e33b248e3e3fae1f317b5"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge.toml"
-hash = "16bbf199ce2f4a3fd3ae0e69baa33eb4e98812f27557dd8654c775d6a4a8e994"
+hash = "57b98c618333e916501b3a2c5f1a6f4a73aba8ee27920612801ecac1275df729"
 metafile = true
 
 [[files]]
@@ -1854,7 +1849,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "23a9a05326fd3ae6d62ab8853b5c4cf933cf513fc97a09e839a5b759b0d9319d"
+hash = "3929d63a9a0c2fbebecf4b931a9a6b93582cf5958ec62a171f14e9eec2fb45f3"
 metafile = true
 
 [[files]]
@@ -2024,7 +2019,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.toml"
-hash = "aba4057d8ca80f9f3316b4329e7e96a32de8c385518669fa18a050edb52e88d8"
+hash = "2e06cf93e062aca08cca6af57a7ff889666c3770244facd1667cd95043956c80"
 metafile = true
 
 [[files]]
@@ -2064,7 +2059,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.toml"
-hash = "aead5642678adffe40b7bf38fa0ec5751b17038ff9f871c9cba283e2880db4df"
+hash = "1bda7dbf2a15134727be5c4c9b886d68ed7f383bbbe39e2ce2dac78103f0cbac"
 metafile = true
 
 [[files]]
@@ -2079,7 +2074,7 @@ metafile = true
 
 [[files]]
 file = "mods/phi.toml"
-hash = "1823d9af906672d977ad4fe1140d7da6aa6bcb956b0f6626cd23f78c38e3a34e"
+hash = "803d8cb12842df84f4658f1a0967c230d7eb61c353c2b4cc80a2028375652e1b"
 metafile = true
 
 [[files]]
@@ -2134,7 +2129,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.toml"
-hash = "bad0f1dc16945e0157db8b445b40bad4b9ab822270842ba75bef6f617faeb805"
+hash = "75f3c0cccea017f26da341797ca8baae0607a5980b2a8ad4d3a05ecde91a081f"
 metafile = true
 
 [[files]]
@@ -2174,7 +2169,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "d4c251c2cca5333dbe884e06d6194d3a75d0d9c9883072bcd9000613430a3ce9"
+hash = "ec848c2efcb81c854ca77b834e30b84ea5f0ed179ddba3a0d8417fb74f68ba6a"
 metafile = true
 
 [[files]]
@@ -2253,13 +2248,12 @@ hash = "68b01cea057859a95c0b341d8c841a050a6c2df66b72d6cea9939aeee5aef124"
 metafile = true
 
 [[files]]
-file = "mods/sodium-reforged.toml"
-hash = "ef2d7a284132f3d77e9d26bea9f73c3bddba24c4e5bcf853832bed46ed82562f"
-metafile = true
+file = "mods/sodium-forge-2.9.10-unofficial+flywheel-compat.jar"
+hash = "5ff59790a23b487947689a81a105e0656f9da9769ff0925004fa0a9a024ce333"
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "fecf7ab20d3608db60c3c7e790633604dde325920a18d1397c2e7ad811efc227"
+hash = "abd38f65f77422cb64cf9c8bee8f0e69eff9204d61d2d727aa14e9499eb6dfa0"
 metafile = true
 
 [[files]]
@@ -5460,3 +5454,7 @@ hash = "5f3b03591a33f15d45c6d78438f1702fab8d1373ac864742d7cc2022cca618ef"
 [[files]]
 file = "reverts/just-enough-resources-jer.toml"
 hash = "15275b9ebc3490e4290788906fd0c57b00c02dff9f11214c39d2eebad899a06a"
+
+[[files]]
+file = "reverts/sodium-reforged.toml"
+hash = "ef2d7a284132f3d77e9d26bea9f73c3bddba24c4e5bcf853832bed46ed82562f"
