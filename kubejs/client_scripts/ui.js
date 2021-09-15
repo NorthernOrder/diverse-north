@@ -85,7 +85,7 @@ events.listen("ui.main_menu", (event) => {
     // Modpack Version
     ui.label((label) => {
       label.height = 10;
-      label.name = "Version: 0.2.1";
+      label.name = "Version: 0.2.2";
       label.x = 2;
       label.y = ui.height - 11;
     });

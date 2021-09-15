@@ -994,7 +994,7 @@ hash = "c9d95533a69c3a720f162524ba3aeb5b9a4436b07e685174ac8662a0c7c522c8"
 
 [[files]]
 file = "kubejs/client_scripts/ui.js"
-hash = "a689dcabb7661e3707ae18b6d20d901e49d529d47dfeb8a710fc30ac5105d99c"
+hash = "fa318bf9b2fc33fd6dfd23da0bcc17dfc5f2e62d14c9f33ae18bbeb02b6705e6"
 
 [[files]]
 file = "kubejs/client_scripts/unify.js"
@@ -5454,7 +5454,3 @@ hash = "5f3b03591a33f15d45c6d78438f1702fab8d1373ac864742d7cc2022cca618ef"
 [[files]]
 file = "reverts/just-enough-resources-jer.toml"
 hash = "15275b9ebc3490e4290788906fd0c57b00c02dff9f11214c39d2eebad899a06a"
-
-[[files]]
-file = "reverts/sodium-reforged.toml"
-hash = "ef2d7a284132f3d77e9d26bea9f73c3bddba24c4e5bcf853832bed46ed82562f"
