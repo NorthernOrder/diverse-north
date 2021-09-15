@@ -406,7 +406,7 @@ hash = "276be1f4782670ef6c5fb7e6aa23ab35f2b1cca374151b77b41a780fe24c1b8b"
 
 [[files]]
 file = "config/charm-common.toml"
-hash = "10179b30459721b6063d6e051f6bb13757ab2d16bfcd8f236922b4b27c23a787"
+hash = "25b7bb8278e0d146bbdbf62df56a1691ce815167c70caaa9cc21e439d4aeaeb6"
 
 [[files]]
 file = "config/charmonium-common.toml"

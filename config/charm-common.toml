@@ -124,7 +124,7 @@
 #Strays spawn anywhere within their biome and have a chance to drop blue ice.
 "StrayImprovements enabled" = false
 #Tamed animals do not take direct damage from players.
-"TamedAnimalsNoDamage enabled" = true
+"TamedAnimalsNoDamage enabled" = false
 #When applied, this enchantment lets you change the color of the enchanted glint using dye on an anvil. Requires Core 'Enchantment glint override' to be true.
 "Tinted enabled" = false
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
