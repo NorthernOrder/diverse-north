@@ -1834,7 +1834,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
-hash = "10533478b58457571fa77b190d3497577b519c8cf9edd49689ef4035eb3f6273"
+hash = "15275b9ebc3490e4290788906fd0c57b00c02dff9f11214c39d2eebad899a06a"
 metafile = true
 
 [[files]]
@@ -5456,3 +5456,7 @@ hash = "fd35e912b04868cd0bc1e139393ca39011ca8399851a58ce7500f211d951e12c"
 [[files]]
 file = "reverts/jei.toml"
 hash = "5f3b03591a33f15d45c6d78438f1702fab8d1373ac864742d7cc2022cca618ef"
+
+[[files]]
+file = "reverts/just-enough-resources-jer.toml"
+hash = "15275b9ebc3490e4290788906fd0c57b00c02dff9f11214c39d2eebad899a06a"
